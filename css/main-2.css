@@ -403,6 +403,9 @@ article {
         margin-left: 35px;
         background: rgba(255, 255, 255, 0.2);
     }
+    .navy{
+        font-size: 15px;
+    }
 }
 
 @media screen and (max-width: 400px){
@@ -411,6 +414,12 @@ article {
 	   padding-top: 0px;
        margin-top: 0px; }
 	
+}
+
+@media screen and (max-width: 360px){
+    .navy{
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 1260px){
