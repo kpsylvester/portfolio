@@ -17,7 +17,7 @@ body{
 }
 
 .bg{
-    background-color: #EFEEFF;
+    background-color: #F1F7F9;
     width: 100%;
 }
 
@@ -128,7 +128,7 @@ footer{
 }
 
 .link{
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
