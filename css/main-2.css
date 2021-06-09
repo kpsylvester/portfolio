@@ -412,8 +412,8 @@ article {
 	h2{
        font-size: 25px;
 	   padding-top: 0px;
-       margin-top: 0px; }
-	
+       margin-top: 0px; 
+    }
 }
 
 @media screen and (max-width: 360px){
