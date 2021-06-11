@@ -247,6 +247,10 @@ ul li{
     padding-top: 15px;
 }
 
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .sticky-top{
 	position: fixed;
 	top: 0;
@@ -399,18 +403,19 @@ article {
 
 @media screen and (max-width: 438px){
     h1{
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
         margin-left: 50px;
-        background: rgba(255, 255, 255, 0.2);
+        background: rgba(255, 255, 255, 0.8);
     }
     h2{
-       font-size: 25px;
+       font-size: 15px;
 	   padding-top: 0px;
-       margin-top: 0px; }
+       margin-top: 0px; 
+    }
 	h3{
-        margin-left: 35px;
-        background: rgba(255, 255, 255, 0.2);
+        margin-left: 55px;
+        background: rgba(255, 255, 255, 0.8);
     }
     .navy{
         font-size: 15px;
