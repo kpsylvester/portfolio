@@ -238,6 +238,15 @@ ul li{
             
 }
 
+.space {
+    padding-top: 35px;
+    padding-bottom: 45px;
+}
+
+.lil-space {
+    padding-top: 15px;
+}
+
 .sticky-top{
 	position: fixed;
 	top: 0;
