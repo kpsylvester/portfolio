@@ -268,6 +268,9 @@ ul li{
 	width: 160px;
 	height: 160px;
 }
+.top-space{
+    padding-top:0px;
+}
 
 header {
     
@@ -427,6 +430,9 @@ article {
        font-size: 25px;
 	   padding-top: 0px;
        margin-top: 0px; 
+    }
+    .top-space{
+        padding-top: 30px;
     }
 }
 
