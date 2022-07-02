@@ -31,6 +31,11 @@ body{
     width: 100%;
 }
 
+.yellow{
+    background-color:#FFF9E4;
+    width: 100%;
+}
+
 
 .hero{
     background-image: url('startup.svg');
