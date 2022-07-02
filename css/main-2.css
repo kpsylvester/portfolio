@@ -104,6 +104,8 @@ button{
 	padding-top: 20px;
 }
 
+
+
 figcaption {
 	
 	text-align: center;
@@ -111,9 +113,11 @@ figcaption {
 }
 
 .space {
-	padding-top: 65px;
+	padding-top: 40px;
 }
-
+.container{
+    
+}
 .centered-text{
 	position: absolute;
     top: 50%;
